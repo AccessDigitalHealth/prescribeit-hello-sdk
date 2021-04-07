@@ -9,7 +9,7 @@
 		<dependency>
 			<groupId>ca.infoway.prescribeit</groupId>
 			<artifactId>sdk</artifactId>
-			<version>0.1.1</version>
+			<version>0.3.1</version>
 		</dependency>
 
 	</dependencies>
